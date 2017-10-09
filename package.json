@@ -1,0 +1,26 @@
+{
+  "name": "@davidhund/browserslist-config",
+  "version": "1.0.0",
+  "description": "Shareable Browserslist Config by David Hund",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "browserslist",
+    "browserslist-config",
+    "caniuse",
+    "browsers",
+    "config"
+  ],
+  "author": "David Hund <@valuedstandards>",
+  "license": "MIT",
+  "homepage": "https://github.com/awkaiser/browserslist-config-google",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidhund/browserslist-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/davidhund/browserslist-config/issues"
+  }
+}
